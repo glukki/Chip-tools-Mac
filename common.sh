@@ -1,4 +1,4 @@
-#!/usr/bin/env bash 
+#!/usr/bin/env bash
 
 TIMEOUT=30
 FEL=${FEL:-sunxi-fel}
